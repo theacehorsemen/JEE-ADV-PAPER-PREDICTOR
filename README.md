@@ -8,3 +8,6 @@ That's why to make it easy for ourselves we are going to make this an open sourc
 
 # NOTE:
 # JEE PAPER PATTERN IS NEVER THE SAME AND MAY BE DIFFICULT TO PREDICT!!!
+
+# PAPER ARCHIVE:
+https://jeeadv.ac.in/pastqp.php
